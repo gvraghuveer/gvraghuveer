@@ -1,10 +1,6 @@
 # <h1 align="center">Hi, I'm Raghuveer 👋</h1>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/gvraghuveer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/gvraghuveer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:gvraghuveer07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -35,13 +31,13 @@ I'm a developer who enjoys the bridge between complex backend logic and clean mo
 ---
 
 ### 📊 My GitHub Journey
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gvraghuveer&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvraghuveer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gvraghuveer&theme=dark&hide_border=false" width="100%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gvraghuveer&theme=dark&hide_border=false" width="50%" />
 </p>
 
 ---
