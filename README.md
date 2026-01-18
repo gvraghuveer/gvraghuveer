@@ -32,10 +32,10 @@ I'm a developer who enjoys the bridge between complex backend logic and clean mo
 ---
 
 ### 📊 My GitHub Journey
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gvraghuveer&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvraghuveer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=gvraghuveer&theme=dark&hide_border=false" width="50%" />
