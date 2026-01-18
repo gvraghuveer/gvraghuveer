@@ -44,9 +44,9 @@ I'm a developer who enjoys the bridge between complex backend logic and clean mo
 ---
 
 ### 🔝 Top Contributed Repositories
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=gvraghuveer&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+</p> -->
 
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=gvraghuveer&icon=0&color=0" alt="Visitor Count" />
